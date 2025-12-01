@@ -1,0 +1,22 @@
+.header {
+  border-bottom: 1px solid rgb(10, 10, 10);
+}
+a {
+    text-decoration:none;
+}
+.designation {
+    margin-top: -17px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border-right: 1px solid rgb(10, 10, 10);
+    padding: 5px;
+}
+
+th:last-child, td:last-child {
+    border-right: none;
+}
